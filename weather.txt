@@ -1,0 +1,15 @@
+IDcode Outlook Temperature Humidity Windy Play
+a sunny hot high false no
+b sunny hot high true no
+c overcast hot high false yes
+d rainy mild high false yes
+e rainy cool normal false yes
+f rainy cool normal true no
+g overcast cool normal true yes
+h sunny mild high false no
+i sunny cool normal false yes
+j rainy mild normal false yes
+k sunny mild normal true yes
+l overcast mild high true yes
+m overcast hot normal false yes
+n rainy mild high true no
