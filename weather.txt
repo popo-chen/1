@@ -1,4 +1,4 @@
-IDcode Outlook Temperature Humidity Windy Play
+IDcode outlook temperature humidity windy play
 a sunny hot high false no
 b sunny hot high true no
 c overcast hot high false yes
